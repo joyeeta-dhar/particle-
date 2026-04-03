@@ -2,7 +2,6 @@
 
 An immersive, interactive 3D particle system built with **Three.js** and **MediaPipe Hands**. This application uses your webcam to track your hand movements and gestures in real-time, allowing you to morph a cloud of 4,000 particles into various geometric and organic shapes.
 
-![Particle Morpher](particle-rho-gold.vercel.app) 
 
 ## ✨ Features
 
