@@ -2,7 +2,7 @@
 
 An immersive, interactive 3D particle system built with **Three.js** and **MediaPipe Hands**. This application uses your webcam to track your hand movements and gestures in real-time, allowing you to morph a cloud of 4,000 particles into various geometric and organic shapes.
 
-![Particle Morpher](https://raw.githubusercontent.com/joyeeta-dhar/particle-/main/particle.html) *(Note: Replace with actual screenshot later if needed)*
+![Particle Morpher](https://raw.githubusercontent.com/joyeeta-dhar/particle-/main/index.html) *(Note: Replace with actual screenshot later if needed)*
 
 ## ✨ Features
 
@@ -36,8 +36,8 @@ Hold up different numbers of fingers to switch between these shapes:
 
 ## 🛠 Setup & Usage
 
-1. Clone the repository or download the `particle.html` file.
-2. Open `particle.html` in any modern web browser (Chrome, Edge, or Brave recommended).
+1. Clone the repository or download the `index.html` file.
+2. Open `index.html` in any modern web browser (Chrome, Edge, or Brave recommended).
 3. **Allow camera access** when prompted.
 4. Position your hand in front of the camera and start morphing!
 
