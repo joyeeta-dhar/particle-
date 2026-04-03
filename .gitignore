@@ -1,0 +1,14 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local environment files
+.env
+.vscode/
+.idea/
+.DS_Store
+
+# Temporary files
+tmp/
+temp/
